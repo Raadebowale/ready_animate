@@ -1,16 +1,18 @@
 # ready_animate
+This app renders two animated files side by side with buttons to interact with the animation
 
-A new Flutter project.
+Welcome to the **Ready Animate** repository! This guide will help you clone, build, and run the app on your device.
 
-## Getting Started
+## 📥 Clone the Repository
+First, clone the project to your local machine:
+git clone https://github.com/Raadebowale/ready_animate.git
+cd ready_animate 
 
-This project is a starting point for a Flutter application.
+## Install Dependencies
+Run: flutter pub get
 
-A few resources to get you started if this is your first Flutter project:
+## Build APK 
+Run: flutter build apk --split-per-abi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Install APK on your Android device
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
